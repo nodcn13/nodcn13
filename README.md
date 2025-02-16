@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast and developer focused on bui
 
 - Email: [nilovcarl@gmail.com]
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/carl-nilov-6557a2351)
-- Twitter(X): [@yourtwitterhandle](https://x.com/nodcn13)
+- Twitter(X): [@nodcn13](https://x.com/nodcn13)
 
 ---
 
