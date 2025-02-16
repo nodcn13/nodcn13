@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Carl!
 
-Visit my portfolio site: [](https://portfolio-47he.onrender.com)
+Visit my portfolio site: [portfolio-47he.onrender.com](https://portfolio-47he.onrender.com)
+
 Welcome to my GitHub profile! I'm a tech enthusiast and developer focused on building innovative and practical applications. I love working on projects that involve cutting-edge technologies, and I aim to create solutions that are both efficient and user-friendly.
 
 ## 👨‍💻 About Me
