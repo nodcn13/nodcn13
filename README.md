@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast and developer focused on bui
 
 ## 📈 My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nodcn13&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
 
 
 ## 🛠️ Technologies & Tools
